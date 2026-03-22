@@ -1,0 +1,20 @@
+[
+  {
+    "name": "First Class Room",
+    "image": "first-class.jpg",
+    "description": "<p>Cras dui sapien, feugiat vitae tristique ut...</p>",
+    "rate": "Rate: 220 / Day"
+  },
+  {
+    "name": "Deluxe Room",
+    "image": "deluxe.jpg",
+    "description": "<p>Sed et augue lorem. In sit amet placerat arcu...</p>",
+    "rate": "Rate: 150 / Day"
+  },
+  {
+    "name": "Suite Room",
+    "image": "suite.jpg",
+    "description": "<p>Sed et augue lorem. In sit amet placerat arcu...</p>",
+    "rate": "Rate: 180 / Day"
+  }
+]
